@@ -1,4 +1,4 @@
-# PersonalProjects
+# Personal Projects
 Personal projects I've worked on
 
 Power BI draft dashboard:
